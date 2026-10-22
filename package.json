@@ -1,0 +1,10 @@
+{
+  "name": "travaux-pratique-architecture-logiciel-dev",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test seance3-solid/tp3/tp3-refactoring/ReportService.caracterisation.test.js seance3-solid/tp3/tp3-refactoring/ReportService.extension.test.js",
+    "demo": "node seance3-solid/tp3/tp3-refactoring/main.js"
+  }
+}
