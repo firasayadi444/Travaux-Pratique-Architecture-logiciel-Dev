@@ -1,0 +1,12 @@
+{
+  "name": "tp5-queenbee-alerte",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test alerte.spec.js",
+    "demo": "node demo.js"
+  }
+}
